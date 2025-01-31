@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Enea Gizzarelli, BSc in Computer Engineering, MSc in Cybersecurity at Politecnico di Torino.<br><br>- 🔭 I’m working as a Cybersecurity Consultant at Spike Reply, Detection and Response team.<br>- 📚 I'm currently learning Microsoft Defender XDR.</p>
+<p align="left">I'm Enea Gizzarelli, BSc in Computer Engineering, MSc in Cybersecurity at Politecnico di Torino.<br><br>- 🔭 I’m working as a Cybersecurity Consultant at Spike Reply, Security Platforms team.<br>- 📚 I'm currently learning Microsoft Defender 365.</p>
 
 🎓 MSc Thesis: "Honeypot and Generative AI" ([SYNAPSE](https://github.com/eneagizzarelli/SYNAPSE))
 
